@@ -2,8 +2,8 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python and c
 - 📫 How to reach me :13788868299@163.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ?
+- ⚡ Fun fact: no
 
 <!---
 Lyh2013/Lyh2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
